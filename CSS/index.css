@@ -1,0 +1,41 @@
+html {
+    font-size: 1.5rem;
+    max-width: 90%;
+    margin: auto;
+    
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+main{
+    max-width: 90%;
+    margin: 1rem auto;
+    border: 1px solid blue;
+    font-size: 2rem;
+}
+
+.section4 .box img{
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+    min-height: 4em;
+}
+
+
+
+
+main {
+    min-height:10vh ;
+    max-width:90% ;
+    border: 1px solid purple;
+    font-size: 1rem;
+}
+
